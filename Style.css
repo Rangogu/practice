@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+
+header{
+ background-color: aqua;
+}
+nav{
+    background-color: aquamarine;
+}
+#intro{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
