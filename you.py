@@ -5,6 +5,3 @@ class fruit:
 
     def intro(self):
         print("i love", self.name)
-apple=fruit("red")
-print(apple.intro)
-        
