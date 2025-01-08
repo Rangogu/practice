@@ -1,22 +1,6 @@
-fruit = {
-
-"fruit":"Appel"
-
-"colour":"red"
-
-"leaf":"big"
-
+student={
+    "name":"zakir",
+    "age":11
+    
 }
-
-fruit.pop("colour")
-
-print(type(fruit))
-
-tup=(1, 'hello', 24)
-
-lst=(1, 'hello', 24)
-
-print(tup)
-
-
-
+print(student)
